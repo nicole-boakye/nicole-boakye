@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Nicole, a Principal Digital Consultant based in London, currently working at WSP.
+I'm Nicole - a Principal Digital Consultant based in London, currently working at WSP.
 
-Right now I'm predominantly working on low-code (Power Platform), but I love using Python / R and I'm looking to advance my skills in this space. 
+Right now I'm predominantly working on low-code (Power Platform) and Python solutions, but I'm looking to advance my skills in R and coding more generally. 
 
-I am interested in sports analytics, particularly football and fantasy football. 
+I'm very interested in sports analytics, particularly football and fantasy football. 
 
 - 📫 How to reach me: nicole.boakye@live.com
 - 😄 Pronouns: she/her
