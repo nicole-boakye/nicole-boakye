@@ -4,7 +4,7 @@ I'm Nicole - a Principal Digital Consultant based in London, currently working a
 
 Right now I'm predominantly working on low-code (Power Platform) and Python solutions, but I'm looking to advance my skills in R and coding more generally. 
 
-I'm very interested in sports analytics, particularly football and fantasy football. 
+Outside of work, I'm interested in sports analytics, particularly football and fantasy football. 
 
 📫 How to reach me: nicole.boakye@live.com
  
